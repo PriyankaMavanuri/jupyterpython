@@ -1,0 +1,24 @@
+INFO:root:just checking 
+INFO:root:just checking 
+INFO:root:just checking 
+INFO:root:start of my code
+INFO:root:exctd succfl
+INFO:root:start of my code
+ERROR:root:error occure
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "<ipython-input-19-bd59e47101d4>", line 4, in divedbyzero
+    div=a/b
+ZeroDivisionError: division by zero
+INFO:root:start of my code
+ERROR:root:error occure
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "<ipython-input-24-bd59e47101d4>", line 4, in divedbyzero
+    div=a/b
+ZeroDivisionError: division by zero
+INFO:root:start of my code
+INFO:root:exctd succfl
+INFO:root:start of my code
+INFO:root:exctd succfl
+INFO:root:start of my code
